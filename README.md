@@ -1,4 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+<a href="https://app.daily.dev/rontu"><img src="https://api.daily.dev/devcards/ffc04eebde4340118d5d5a39d35ecd22.png?r=43g" width="400" alt="Rontu Barhoi's Dev Card"/></a>
+
 
 <!--
 **Rontu22/Rontu22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
